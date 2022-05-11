@@ -78,7 +78,7 @@ I have good working knowledge of the following languages:
 - An object-oriented way to construct a navigation bar in TypeScript
    - [Code on GitHub](https://github.com/manototh/oop-navbar)
    - [Working example on JSFiddle](https://jsfiddle.net/manototh/3nat2L5o/15/)
-- An object-oriented way to construct a simple calculator in JavaScript
+- An object-oriented way to construct a basic calculator in JavaScript
    - [Code on GitHub](https://github.com/manototh/oop-calculator)
    - [Working example on JSFiddle](https://jsfiddle.net/manototh/8qLvb64t/3/)
 
