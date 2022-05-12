@@ -81,6 +81,7 @@ I have good working knowledge of the following languages:
 - An object-oriented way to construct a basic calculator in JavaScript
    - [Code on GitHub](https://github.com/manototh/oop-calculator)
    - [Working example on JSFiddle](https://jsfiddle.net/manototh/8qLvb64t/3/)
+- I implemented the front end of the [Adverity documentation site](https://docs.adverity.com/) based on designs received from other departments.
 
 ## Scholar
 
