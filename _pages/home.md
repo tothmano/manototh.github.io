@@ -77,10 +77,12 @@ I have good working knowledge of the following languages:
 
 - An object-oriented way to construct a navigation bar in TypeScript
    - [Code on GitHub](https://github.com/manototh/oop-navbar)
-   - [Working example on JSFiddle](https://jsfiddle.net/manototh/3nat2L5o/15/)
+   - [Working example on JSFiddle](https://jsfiddle.net/manototh/3nat2L5o/)
 - An object-oriented way to construct a basic calculator in JavaScript
    - [Code on GitHub](https://github.com/manototh/oop-calculator)
-   - [Working example on JSFiddle](https://jsfiddle.net/manototh/8qLvb64t/3/)
+   - [Working example on JSFiddle](https://jsfiddle.net/manototh/8qLvb64t/)
+- Sort the elements of an array asynchronously with JavaScript
+   - [Code on GitHub](https://github.com/manototh/async-array-sort)
 - I implemented the front end of the [Adverity documentation site](https://docs.adverity.com/) based on designs received from other departments.
 
 ## Scholar
