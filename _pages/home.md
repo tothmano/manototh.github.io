@@ -6,7 +6,9 @@ permalink: /
 
 <div id="mano-toth-photo"></div>
 
-I am the Lead Technical Writer and Documentation Engineer at [Adverity](https://www.adverity.com/) in Vienna. I lead a team of technical writers who contribute content to the [Adverity documentation site](https://docs.adverity.com/). I maintain the website front end and the underlying software architecture for authoring, publishing, and automation.
+I am a Senior Technical Writer at PSPDFKit in Vienna.
+
+Before joining PSPDFKit, I was the Lead Technical Writer and Documentation Engineer at [Adverity](https://www.adverity.com/). I led a team of technical writers who contributed content to the [Adverity documentation site](https://docs.adverity.com/). I maintained the website front end and the underlying software architecture for authoring, publishing, and automation.
 
 Previously, I worked at Tricentis, Omnit, IBM, the Central European University, and the University of Cambridge.
 
@@ -25,7 +27,9 @@ As a technical writer, I primarily see myself as a student and an educator, as s
 
 ### Professional experience
 
-**2020 – present** Lead Technical Writer and Documentation Engineer, *Adverity*
+**2022 – present** Senior Technical Writer, *PSPDFKit*
+
+**2020 – 2022** Lead Technical Writer and Documentation Engineer, *Adverity*
 
 **2019 – 2020** Technical Writer, *Tricentis*
 
@@ -70,6 +74,7 @@ I have good working knowledge of the following languages:
 - HTML
 - Groovy
 - JavaScript
+- Markdown
 - Python
 - TypeScript
 
