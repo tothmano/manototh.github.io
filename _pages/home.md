@@ -6,7 +6,7 @@ permalink: /
 
 <div id="mano-toth-photo"></div>
 
-I am a Senior Technical Writer at PSPDFKit in Vienna.
+I am Senior Technical Writer at PSPDFKit in Vienna.
 
 Before joining PSPDFKit, I was the Lead Technical Writer and Documentation Engineer at [Adverity](https://www.adverity.com/). I led a team of technical writers who contributed content to the [Adverity documentation site](https://docs.adverity.com/). I maintained the website front end and the underlying software architecture for authoring, publishing, and automation.
 
