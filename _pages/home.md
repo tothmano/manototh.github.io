@@ -6,7 +6,7 @@ permalink: /
 
 <div id="mano-toth-photo"></div>
 
-I am Senior Technical Writer at PSPDFKit in Vienna.
+As Head of Documentation and Senior Technical Writer at PSPDFKit, I manage a team responsible for documentation and developer experience. My team documents different software development kits (SDKs) that enable developers to easily integrate powerful document processing solutions into their apps.
 
 Before joining PSPDFKit, I was the Lead Technical Writer and Documentation Engineer at [Adverity](https://www.adverity.com/). I led a team of technical writers who contributed content to the [Adverity documentation site](https://docs.adverity.com/). I maintained the website front end and the underlying software architecture for authoring, publishing, and automation.
 
@@ -21,13 +21,14 @@ Since 2011, I have been working in various roles related to the production and p
 As a technical writer, I primarily see myself as a student and an educator, as someone who learns something new every day and documents this learning experience so that others can learn from it as well. I gather, produce, and disseminate knowledge about complex products, and respond to feedback in order to make the learning experience of readers/users as effective, engaging, and enjoyable as possible.
 
 ### Documentation projects
-- [Adverity documentation site](https://docs.adverity.com/)
-- [JBStrap documentation site](https://docs.jbstrap.com/)
-- [Tricentis Tosca manual](https://documentation.tricentis.com/tosca/1510/en/content/resources/webhelp/cover_web.htm)
+- [PSPDFKit documentation](https://pspdfkit.com/developers/)
+- [Adverity documentation](https://docs.adverity.com/)
+- [JBStrap documentation](https://docs.jbstrap.com/)
+- [Tricentis Tosca documentation](https://documentation.tricentis.com/tosca/1600/en/content/resources/webhelp/cover_web.htm)
 
 ### Professional experience
 
-**2022 – present** Senior Technical Writer, *PSPDFKit*
+**2022 – present** Head of Documentation and Senior Technical Writer, *PSPDFKit*
 
 **2020 – 2022** Lead Technical Writer and Documentation Engineer, *Adverity*
 
@@ -80,6 +81,8 @@ I have good working knowledge of the following languages:
 
 ### Coding projects
 
+- A proof of concept that integrates OpenAI technology into the PSPDFKit documentation and SDK
+   - [Blog post on PSPDFKit](https://pspdfkit.com/blog/2023/tech-writers-guide-to-chatgpt/)
 - An object-oriented way to construct a navigation bar in TypeScript
    - [Code on GitHub](https://github.com/manototh/oop-navbar)
    - [Working example on JSFiddle](https://jsfiddle.net/manototh/3nat2L5o/)
