@@ -131,7 +131,7 @@ As a scholar, my main fields of interest are memory studies and critical Europea
 
 ### Book chapter
 
-**2022** Chapter 11: Politics of Regret in the Handbook on the Politics of Memory, *Edward Elgar* (forthcoming)
+**2023** [Chapter 11: Regretful Memory Politics in the Handbook on the Politics of Memory](https://www.elgaronline.com/edcollchap/book/9781800372535/book-part-9781800372535-18.xml), *Edward Elgar*
 
 ### Essays and book reviews
 
