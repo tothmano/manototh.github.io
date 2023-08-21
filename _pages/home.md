@@ -85,6 +85,9 @@ I have good working knowledge of the following languages:
    - [Tool on PSPDFKit website](https://pspdfkit.com/askai/)
    - [First blog post about the proof of concept](https://pspdfkit.com/blog/2023/tech-writers-guide-to-chatgpt/)
    - [Second blog post about the release of the beta version](https://pspdfkit.com/blog/2023/introducing-ask-ai-beta/)
+- A tiny, fast, pure JavaScript solution to display a short, customised animation while your website loads
+   - [Code on GitHub](https://github.com/manototh/site-intro-animation)
+   - [Working example on JSFiddle](https://jsfiddle.net/manototh/d6xz38fm/)
 - An object-oriented way to construct a navigation bar in TypeScript
    - [Code on GitHub](https://github.com/manototh/oop-navbar)
    - [Working example on JSFiddle](https://jsfiddle.net/manototh/3nat2L5o/)
