@@ -6,7 +6,7 @@ permalink: /
 
 <div id="mano-toth-photo"></div>
 
-As Head of Documentation and Senior Technical Writer at PSPDFKit, I manage a team responsible for documentation and developer experience. My team documents different software development kits (SDKs) that enable developers to easily integrate powerful document processing solutions into their apps.
+I am Head of Documentation and Developer Experience at PSPDFKit. My team documents different software development kits (SDKs) that enable developers to easily integrate powerful document processing solutions into their apps.
 
 Before joining PSPDFKit, I was the Lead Technical Writer and Documentation Engineer at [Adverity](https://www.adverity.com/). I led a team of technical writers who contributed content to the [Adverity documentation site](https://docs.adverity.com/). I maintained the website front end and the underlying software architecture for authoring, publishing, and automation.
 
@@ -28,7 +28,7 @@ As a technical writer, I primarily see myself as a student and an educator, as s
 
 ### Professional experience
 
-**2022 – present** Head of Documentation and Senior Technical Writer, *PSPDFKit*
+**2022 – present** Head of Documentation and Developer Experience, *PSPDFKit*
 
 **2020 – 2022** Lead Technical Writer and Documentation Engineer, *Adverity*
 
