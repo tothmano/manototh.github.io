@@ -8,7 +8,7 @@ permalink: /
 
 I am a documentation and developer experience manager. I help software companies design, implement, and optimise their information architecture and developer experience programs. I have built technical writing teams and work processes from scratch. To continuously improve developer experience, I determine metrics for measuring the effectiveness of documentation, I monitor and evaluate the data, and I set objectives for my team accordingly. As a result, sales form submissions have increased in the past by 50% in three months.
 
-I am Head of Documentation and Developer Experience at PSPDFKit. I built a documentation team and a developer experience program from scratch. My team of technical writers is responsible for the highly technical documentation of more than 60 products in various programming languages.
+I am Head of Documentation and Developer Experience at PSPDFKit. I built a documentation team and a developer experience program from scratch. My team of technical writers is responsible for the highly technical documentation of more than 20 products in various programming languages.
 
 Before joining PSPDFKit, I was the Lead Technical Writer and Documentation Engineer at Adverity. I led a team of technical writers and we created a completely new documentation site from scratch. I designed and implemented the front end of Adverity’s new documentation site, as well as the software architecture and the work processes with which the technical writing team contributed content.
 
