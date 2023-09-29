@@ -73,6 +73,7 @@ When I started coding in 2018, my main motivation was to improve the user experi
 
 I have good working knowledge of the following languages:
 
+- C# (.NET)
 - CSS
 - HTML
 - Groovy
