@@ -27,23 +27,30 @@ As a technical writer, I primarily see myself as a student and an educator, as s
 
 ### Professional experience
 
-**2024 – Present** Self-Employed Consultant, *Documentation Architect*
+**2024 – Present**
+  Self-Employed Consultant, *Documentation Architect*
+  Head of Documentation, *Axiom*
 
-                   Head of Documentation, *Axiom*
+**2022 – 2023**
+  Head of Documentation and Developer Experience, *PSPDFKit*
 
-**2022 – 2023** Head of Documentation and Developer Experience, *PSPDFKit*
+**2020 – 2022**
+  Lead Technical Writer and Documentation Engineer, *Adverity*
 
-**2020 – 2022** Lead Technical Writer and Documentation Engineer, *Adverity*
+**2019 – 2020**
+  Technical Writer, *Tricentis*
 
-**2019 – 2020** Technical Writer, *Tricentis*
+**2018 – 2019**
+  Technical Writer, *Omnit*
 
-**2018 – 2019** Technical Writer, *Omnit*
+**2017 – 2018**
+  Manage the production and publication process of test papers, *Cambridge Assessment*
 
-**2017 – 2018** Manage the production and publication process of test papers, *Cambridge Assessment*
+**2012 – 2017**
+  Write, edit, and proofread test papers, *Cambridge Assessment*
 
-**2012 – 2017** Write, edit, and proofread test papers, *Cambridge Assessment*
-
-**2011 – 2012** Write and edit financial contracts in French, *IBM*
+**2011 – 2012**
+  Write and edit financial contracts in French, *IBM*
 
 ### Software tools
 
