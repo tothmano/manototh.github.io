@@ -8,7 +8,7 @@ permalink: /
 
 I am a documentation architect. I help software companies design, implement, and optimise their information architecture and developer experience programmes. I have built technical writing teams, developer experience programmes, documentation sites, and work processes from scratch.
 
-Currently, I am Head of Documentation at Axiom. Previously, I have worked at PSPDFKit, Adverity Tricentis, Omnit, IBM, the Central European University, and the University of Cambridge.
+Currently, I am Head of Documentation at Axiom. Previously, I have worked at PSPDFKit, Adverity, Tricentis, Omnit, IBM, the Central European University, and the University of Cambridge.
 
 I define myself as an enthusiastic writer, developer, and scholar.
 
