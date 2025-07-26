@@ -28,6 +28,7 @@ As a technical writer, I primarily see myself as a student and an educator, as s
 ### Professional experience
 
 **2024 – Present** Self-Employed Consultant, *Documentation Architect*
+
                    Head of Documentation, *Axiom*
 
 **2022 – 2023** Head of Documentation and Developer Experience, *PSPDFKit*
