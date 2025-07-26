@@ -6,13 +6,9 @@ permalink: /
 
 <div id="mano-toth-photo"></div>
 
-I am a documentation and developer experience manager. I help software companies design, implement, and optimise their information architecture and developer experience programs. I have built technical writing teams and work processes from scratch. To continuously improve developer experience, I determine metrics for measuring the effectiveness of documentation, I monitor and evaluate the data, and I set objectives for my team accordingly. As a result, sales form submissions have increased in the past by 50% in three months.
+I am a documentation architect. I help software companies design, implement, and optimise their information architecture and developer experience programmes. I have built technical writing teams, developer experience programmes, documentation sites, and work processes from scratch.
 
-Until September 2023, I was Head of Documentation and Developer Experience at PSPDFKit. I built a documentation team and a developer experience program from scratch. My team of technical writers was responsible for the highly technical documentation of more than 20 products in various programming languages.
-
-Before joining PSPDFKit, I was the Lead Technical Writer and Documentation Engineer at Adverity. I led a team of technical writers and we created a completely new documentation site from scratch. I designed and implemented the front end of Adverity’s new documentation site, as well as the software architecture and the work processes with which the technical writing team contributed content.
-
-Previously, I worked at Tricentis, Omnit, IBM, the Central European University, and the University of Cambridge.
+Currently, I am Head of Documentation at Axiom. Previously, I have worked at PSPDFKit, Adverity, Tricentis, Omnit, IBM, the Central European University, and the University of Cambridge.
 
 I define myself as an enthusiastic writer, developer, and scholar.
 
@@ -23,12 +19,16 @@ Since 2011, I have been working in various roles related to the production and p
 As a technical writer, I primarily see myself as a student and an educator, as someone who learns something new every day and documents this learning experience so that others can learn from it as well. I gather, produce, and disseminate knowledge about complex products, and respond to feedback in order to make the learning experience of readers/users as effective, engaging, and enjoyable as possible.
 
 ### Documentation projects
+- [Axiom documentation](https://axiom.co/docs/)
 - [PSPDFKit documentation](https://pspdfkit.com/developers/)
 - [Adverity documentation](https://docs.adverity.com/)
 - [JBStrap documentation](https://docs.jbstrap.com/)
 - [Tricentis Tosca documentation](https://documentation.tricentis.com/tosca/1600/en/content/resources/webhelp/cover_web.htm)
 
 ### Professional experience
+
+**2024 – Present** Self-Employed Consultant, *Documentation Architect*
+                   Head of Documentation, *Axiom*
 
 **2022 – 2023** Head of Documentation and Developer Experience, *PSPDFKit*
 
