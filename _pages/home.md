@@ -83,8 +83,7 @@ I have good working knowledge of the following languages:
 
 ### Coding projects
 
-- OpenAI-powered Q&A tool where you ask questions and get answers based on the product documentation.
-   - [Tool on PSPDFKit website](https://pspdfkit.com/askai/)
+- OpenAI-powered Q&A tool where you ask questions and get answers based on the product documentation
    - [First blog post about the proof of concept](https://pspdfkit.com/blog/2023/tech-writers-guide-to-chatgpt/)
    - [Second blog post about the release of the beta version](https://pspdfkit.com/blog/2023/introducing-ask-ai-beta/)
 - A tiny, fast, pure JavaScript solution to display a short, customised animation while your website loads
