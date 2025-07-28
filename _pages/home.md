@@ -97,7 +97,7 @@ I have good working knowledge of the following languages:
    - [Working example on JSFiddle](https://jsfiddle.net/manototh/8qLvb64t/)
 - Sort the elements of an array asynchronously with JavaScript
    - [Code on GitHub](https://github.com/tothmano/async-array-sort)
-- I implemented the front end of the [Adverity documentation site](https://docs.adverity.com/) based on designs received from other departments.
+- I implemented the front end of the [Adverity documentation site](https://docs.adverity.com/) based on designs received from other departments
 
 ## Scholar
 
